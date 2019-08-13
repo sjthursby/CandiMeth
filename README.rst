@@ -39,7 +39,7 @@ C. Using CandiMeth
 -	Following this, go to the `CandiMeth History <http://bit.do/CandiMeth-History>`_ and click the same button to import and start using this history – this is the data used in the fourth input step of CandiMeth, to annotate the features for investigation
 - At the top of the Galaxy homepage, click on the "workflows" option to see all the workflows that are available to you
 - Click on the newly imported CandiMeth workflow and click on the downwards facing arrow > Run
-- To demonstrate how CandiMeth works, `Example data <http://bit.do/CandiMeth-test-data>`_ will be used
+- To demonstrate how CandiMeth works, `example data <http://bit.do/CandiMeth-test-data>`_ will be used
 -	In this example, RnBeads based data will be used as an input, although as can be seen from the test data, ChAMP data is also accepted
 -	Input RnBeads or ChAMP data has to be in the form of a dataset collection. However, an excellent tutorial on how to create these can be found `here <https://galaxyproject.org/tutorials/collections/#creating-a-collection-from-datasets-in-your-history>`_
 -	In the History Options at the top of CandiMeth, click yes to “Send results to a new history” – we recommend doing this, as CandiMeth generates a lot of hidden background jobs so it is more convenient if the workflow runs by itself in the background while other tasks can be completed in the interim
