@@ -1,4 +1,4 @@
-.. figure:: https://github.com/sjthursby/CandiMeth/blob/master/candimeth%20for%20epigenetis%20workshop.png
+.. figure:: https://github.com/sjthursby/CandiMeth/blob/master/images/CandiMeth%20Logo.png
    :alt: CandiMeth Logo
 
 
@@ -24,7 +24,7 @@ If you have not done so already, the data to be analysed needs to be uploaded to
 -	Set “Genome (set all)” to either Human Feb. 2009 (GRCh37/hg19) or Human Dec. 2013 (GRCh38/hg38) – depending on what genome your array was analysed in accordance to.
 -	Click “Paste/Fetch data” and paste in the features you wish to investigate and set the type to “Tabular” as below
 
-.. figure:: https://github.com/sjthursby/CandiMeth/blob/master/upload_file_example.png
+.. figure:: https://github.com/sjthursby/CandiMeth/blob/master/images/upload_file_example.png
    :alt: Example Upload
 
 
