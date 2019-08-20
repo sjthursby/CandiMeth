@@ -54,7 +54,7 @@ CandiMeth produces two outputs; tracks and results. The tracks cover a variety o
 
 CandiMeth Results show each feature input, either in the gene body, promoter or overlapped with another genomic annotation such as chromatin state segmentation or RepeatMasker, the probe coverage in that area, median methylation across that area, standard deviation, mean methylation, maximum and minimum methylation in that area. These results can be used in the already available visualisation tools within Galaxy (using the graph button when previewing data) or downloaded and plotted in alternative software.
 
-A video tutorial of using CandiMeth can also be found `here <https://drive.google.com/file/d/1LjEP0gy3aoZi26Jr0N6JbUx584LA0cD0/view?usp=sharing>`_
+A video tutorial of using CandiMeth can also be found `here <https://youtu.be/egNsHU_xC3k>`_
             
 
 
