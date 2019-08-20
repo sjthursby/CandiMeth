@@ -8,7 +8,7 @@ Using CandiMeth for Feature Methylation Quantification in Galaxy
 A. Prerequisites
 ----------------
 
-Before starting you should have a working `Galaxy <www.usegalaxy.org>`_ account with the following datasets that you can upload:
+Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_ account with the following datasets that you can upload:
 
 - Analysed methylation array data computed in either RnBeads or ChAMP
 - A list of features for investigation in your methylation array data
@@ -18,7 +18,7 @@ B. Uploading your data to Galaxy
 
 If you have not done so already, the data to be analysed needs to be uploaded to Galaxy in order to be used. There is a very comprehensive `tutorial <https://galaxyproject.org/tutorials/upload/>`_ on this, provided by the Galaxy Developers, but in brief;
 
-- Log into `Galaxy <www.usegalaxy.org>`_
+- Log into `Galaxy <https://www.usegalaxy.org>`_
 - On the LHS of the Galaxy homepage click on > Get Data > Upload File > Choose Local File and locate your methylation data you wish to upload
 -	Set “Type (set all)” to whatever kind of file you are uploading, for example, RnBeads based outputs are usually comma separated variable files (.csv)
 -	Set “Genome (set all)” to either Human Feb. 2009 (GRCh37/hg19) or Human Dec. 2013 (GRCh38/hg38) – depending on what genome your array was analysed in accordance to.
