@@ -19,7 +19,7 @@ B. Uploading your data to Galaxy
 If you have not done so already, the data to be analysed needs to be uploaded to Galaxy in order to be used. There is a very comprehensive `tutorial <https://galaxyproject.org/tutorials/upload/>`_ on this, provided by the Galaxy Developers, but in brief;
 
 - Log into `Galaxy <www.usegalaxy.org>`_
-- On the LHS of the Galaxy homepage click on >Get Data > Upload File > Choose Local File and locate your methylation data you wish to upload
+- On the LHS of the Galaxy homepage click on > Get Data > Upload File > Choose Local File and locate your methylation data you wish to upload
 -	Set “Type (set all)” to whatever kind of file you are uploading, for example, RnBeads based outputs are usually comma separated variable files (.csv)
 -	Set “Genome (set all)” to either Human Feb. 2009 (GRCh37/hg19) or Human Dec. 2013 (GRCh38/hg38) – depending on what genome your array was analysed in accordance to.
 -	Click “Paste/Fetch data” and paste in the features you wish to investigate and set the type to “Tabular” as below
@@ -35,18 +35,18 @@ If you have not done so already, the data to be analysed needs to be uploaded to
 C. Using CandiMeth
 ------------------
 
-- Click `here <http://bit.do/CandiMeth>`_ to get the CandiMeth workflow, then click the plus button at the top RHS of the page, this will import the CandiMeth workflow to your Galaxy account so you can use it
--	Following this, go to the `CandiMeth History <http://bit.do/CandiMeth-History>`_ and click the same button to import and start using this history – this is the data used in the fourth input step of CandiMeth, to annotate the features for investigation
+- Click `here <http://tiny.cc/CandiMeth>`_ to get the CandiMeth workflow, then click the plus button at the top RHS of the page, this will import the CandiMeth workflow to your Galaxy account so you can use it
+-	Following this, go to the `CandiMeth History <http://bit.do/CandiMeth-History>`_ and click the same button to import and start using this history – this is the data used in the fourth input step of CandiMeth, to annotate the features for investigation. If you wanted to use CandiMeth History data that was not included in the example data, go to history view within Galaxy (book like symbol beside the gear symobol, top RHS) > drag and drop the history element that you want to your current history i.e. the data you wish to work with
 - At the top of the Galaxy homepage, click on the "workflows" option to see all the workflows that are available to you
 - Click on the newly imported CandiMeth workflow and click on the downwards facing arrow > Run
-- To demonstrate how CandiMeth works, `example data <http://bit.do/CandiMeth-test-data>`_ will be used
+- To demonstrate how CandiMeth works, `example data <https://usegalaxy.org:/u/sarajayne-thursby/h/test-data-candimeth---simple-analysis>`_ will be used
 -	In this example, RnBeads based data will be used as an input, although as can be seen from the test data, ChAMP data is also accepted
 -	Input RnBeads or ChAMP data has to be in the form of a dataset collection. However, an excellent tutorial on how to create these can be found `here <https://galaxyproject.org/tutorials/collections/#creating-a-collection-from-datasets-in-your-history>`_
--	In the History Options at the top of CandiMeth, click yes to “Send results to a new history” – we recommend doing this, as CandiMeth generates a lot of hidden background jobs so it is more convenient if the workflow runs by itself in the background while other tasks can be completed in the interim
--	In R Package Used: (1.1) enter ‘Rnbeads’ if using the test data or RnBeads based data or ‘Champ’ / ‘Custom’ if using ChAMP or Custom generated outputs. This will tell CandiMeth the R package the input data has originated from and therefore how to process the data for feature investigation
+-	In the History Options at the top of CandiMeth, click yes to “Send results to a new history” – we recommend doing this, as CandiMeth generates a lot of hidden background jobs so it is more convenient if the workflow runs by itself in the background while other tasks can be completed in the interim (these background tasks will appear and dissappear in the history as the workflow computes results - this is perfectly normal. This new history will also indicate it is empty at points, when this happens all of the background steps are just hidden as they are not particularly useful to view) 
+-	In R Package Used: (1.1) enter ‘RnBeads’ if using the test data or RnBeads based data or ‘ChAMP’ / ‘Custom’ if using ChAMP or Custom generated outputs. This will tell CandiMeth the R package the input data has originated from and therefore how to process the data for feature investigation
 -	For Step 2: Input Differential Methylation Table (1.2) input “Step 2 Example Input: d10 rnbeads output” (from the test data). In this box differential methylation data from RnBeads, ChAMP or a custom package should be input (see the CandiMeth paper for definition of suitable custom package definitions).
 -	In Step 3: Input Features of Interest (1.3) the features you wish to investigate should be input here. In the test data, this is “Step 3 Example Input: mir379 Cluster list.txt”. This data will tell CandiMeth which portions of the genome to be annotated and investigated within your data.
--	Finally, for step 4 input “Step 4 Example Input: hg19_Prom_NHLF_CHMM.txt” or any data from the CandiMeth History mentioned above. This will provide CandiMeth with the necessary genomic data to annotate and calculate the methylation of, in this case, the chromatin segmentations of normal human lung fibroblasts across your chosen features.
+-	Finally, for step 4 input “Step 4 Example Input: hg19_GB.txt” or any data from the CandiMeth History mentioned above (notes on how to do this in the second point above). This will provide CandiMeth with the necessary genomic data to annotate and calculate the methylation of, in this case, the chromatin segmentations of normal human lung fibroblasts across your chosen features.
 
 D. CandiMeth Outputs
 -------------------
