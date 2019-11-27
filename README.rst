@@ -8,7 +8,7 @@ Using CandiMeth for Feature Methylation Quantification in Galaxy
 A. `Step-by-Step Guide <https://drive.google.com/file/d/1HgPfKsN2GLNBAg9Nw36tpaeHZkWsvtN8/view?usp=sharing>`_
 ---------------------------------------------------
 
-B.  `CandiMeth History with Test Data <https://bit.do/candiMeth-history/>`_
+B.  `CandiMeth History with Test Data <https://bit.do/candimeth-history/>`_
 --------------------------------------------------------------------------
 
 C. `CandiMeth Workflow <https://bit.do/candimeth/>`_
