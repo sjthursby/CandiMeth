@@ -11,7 +11,7 @@ A. `Step-by-Step Guide <https://drive.google.com/file/d/1HgPfKsN2GLNBAg9Nw36tpae
 B.  `CandiMeth History with Test Data <http://bit.do/candimeth-history>`_
 --------------------------------------------------------------------------
 
-C. `CandiMeth Workflow <https://bit.do/candimeth/>`_
+C. `CandiMeth Workflow <http://bit.do/candimeth>`_
 ---------------------------------------------------
 
 D. Prerequisites
@@ -33,7 +33,7 @@ The major outputs are:
 
 Cross-comparison to other open-resource data tracks at UCSC facilitates hypothesis formulation which can then be directly tested using the query function. 
 
-CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://bit.do/candimeth/>`_.
+CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://bit.do/candimeth>`_.
 
 
 Thank you for using CandiMeth!
