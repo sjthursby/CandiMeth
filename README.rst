@@ -14,8 +14,8 @@ B.  `CandiMeth History with Test Data <http://bit.do/candimeth-history>`_
 C. `CandiMeth Workflow <http://bit.do/candimeth>`_
 ---------------------------------------------------
 
-D. `CandiMeth Workflow Download <http://bit.do/candimeth-download>`_
----------------------------------------------------------------------
+D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <http://bit.do/candimeth-download>`_
+--------------------------------------------------------------------------------------------------------------------
 
 E. Prerequisites
 ----------------
