@@ -14,7 +14,10 @@ B.  `CandiMeth History with Test Data <http://bit.do/candimeth-history>`_
 C. `CandiMeth Workflow <http://bit.do/candimeth>`_
 ---------------------------------------------------
 
-D. Prerequisites
+D. `CandiMeth Workflow Download <http://bit.do/candimeth-download>`_
+---------------------------------------------------------------------
+
+E. Prerequisites
 ----------------
 
 Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_ account with the following datasets that you can upload:
@@ -22,7 +25,7 @@ Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_
 - Analysed methylation array data computed in either RnBeads or ChAMP
 - A list of features for investigation in your methylation array data
 
-E. Summary
+F. Summary
 ----------
 Using existing tools in the Galaxy environment we generated the workflow CandiMeth (CANDIdate feature METHylation). This takes as input a differential methylation table from an R-based package and maps it to a reference genome build. A simple interface then allows the user to query the dataset with inputs as straightforward as lists of gene names, or as detailed as bed files containing specific chromosomal coordinates, for more sophisticated analyses. 
 
