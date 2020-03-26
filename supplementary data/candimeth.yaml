@@ -1,0 +1,57 @@
+tool_panel_section_label: 'Text_Manipulation'
+-name: convert_characters
+ owner: devteam
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/view/devteam/convert_characters/8a53d7f02ce4 
+ type: unrestricted
+-name: add_value
+ owner: devteam
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository?repository_id=c6c0851ba1e27e2b&changeset_revision=745871c0b055
+ type: unrestricted
+-name: tp_sed_tool
+ owner: bgruening
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repos/bgruening/text_processing
+ remote_repository_url: https://github.com/bgruening/galaxytools/tree/master/tools/sed
+ type: unrestricted
+-name: column_maker
+ owner: devteam
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository?repository_id=a67e145c774d3a54&changeset_revision=464b9305180e
+ type: unrestricted
+-name: Paste1
+ owner: galaxy
+ remote_repository_url: https://github.com/galaxyproject/galaxy/blob/ed6f5d45a9ecbf0cf8a85341e0213b82a9132a46/tools/filters/pasteWrapper.xml
+ type: unrestricted
+-name: tp_awk_tool
+ owner: bgruening
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=2593fd36ae8011aa
+ type: unrestricted
+ remote_repository_url: https://github.com/bgruening/galaxytools/blob/5c6486dead878a8c9521e1d6d50b3a537a2ec2b0/tools/text_processing/text_processing/awk.xml
+-name: tp_sorted_uniq
+ owner: bgruening
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=2593fd36ae8011aa
+ type: unrestricted
+ remote_repository_url: https://github.com/bgruening/galaxytools/blob/5c6486dead878a8c9521e1d6d50b3a537a2ec2b0/tools/text_processing/text_processing/unsorted_uniq.xml
+tool_panel_section_label: 'Operate on Genomic Intervals'
+-name: tp_easyjoin_tool
+ owner: bgruening
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=2593fd36ae8011aa
+ type: unrestricted
+ remote_repository_url: https://github.com/galaxyproject/galaxy/blob/7a10f5ce0ed809ba1ab836f6a295c4fca9a637de/tools/filters/joiner.xml
+tool_panel_section_label: 'Collection_Operations'
+-name: __MERGE_COLLECTION__
+ owner: galaxy
+ remote_repoistory_url: https://github.com/galaxyproject/galaxy/blob/ed6f5d45a9ecbf0cf8a85341e0213b82a9132a46/lib/galaxy/tools/merge_collection.xml
+ type: unrestricted
+-name: __RELABEL_FROM_FILE__
+ owner: galaxy
+ remote_repository_url: https://github.com/galaxyproject/galaxy/blob/ed6f5d45a9ecbf0cf8a85341e0213b82a9132a46/lib/galaxy/tools/relabel_from_file.xml
+ type: unrestricted
+-name: collapse_dataset
+ owner: nml
+ tool_shed_url: https://toolshed.g2.bx.psu.edu/repository?repository_id=7bd57763926b9cbf&changeset_revision=25136a2b0cfe
+ type: unrestricted
+tool_panel_section_label: 'Join_subtract_and_Group'
+-name: Grouping1
+ owner: galaxy
+ remote_repositiry_url:https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=2593fd36ae8011aa
+ type: unrestricted 
+       
