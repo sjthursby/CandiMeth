@@ -125,4 +125,6 @@ If all goes well, you should see a large green tick in the main (middle) window 
 
 New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between histories using the **“Switch to”** function.
 
+Further detail regarding the operation of CandiMeth can be found here (link to do when guide complete).
+
 Thank you for using CandiMeth!
