@@ -61,14 +61,14 @@ Upload Input Type 1: Differential Methylation Table
    locate your methylation data you wish to upload (e.g. Suppl. Table 1)
 
 2. Set “Type (set all)” to whatever kind of file you are uploading, for example, RnBeads based
-   outputs are usually comma separated variable files (.csv) 
+   outputs are usually comma separated variable files (.csv)
    
- Note: The default **Auto-detect** setting works well for most file formats.
+:Tip: The default **Auto-detect** setting works well for most file formats.
 
 3. Set **“Genome (set all)”** to either Human Feb. 2009 (GRCh37/hg19) or Human Dec. 2013
    (GRCh38/hg38) depending on what genome your array was mapped to (Supp Table 1 is hg19).
 
- Tip: You can type in Human here to bring up all the human genomes and save time.
+:Tip: You can type in Human here to bring up all the human genomes and save time.
 
 4. Click **“Start”**: the file should upload to Galaxy and appear as a dataset on the RHS: this goes from
    grey to orange then finally green if all is well
@@ -102,12 +102,12 @@ Upload Input Type 1: Differential Methylation Table
 
 9. Click **“Start”**: the file should upload to Galaxy and appear as a separate dataset on the RHS
 
- Tip: If you have a longer or more complex list, this can be uploaded directly from a .txt file format (e.g. Supp Table 2) by following  steps 4-6 above i.e. >Upload file>Choose local file, the format is Tabular (or use Auto-detect)
+:Tip: If you have a longer or more complex list, this can be uploaded directly from a .txt file format (e.g. Supp Table 2) by following  steps 4-6 above i.e. >Upload file>Choose local file, the format is Tabular (or use Auto-detect)
 
 Using CandiMeth
 ^^^^^^^^^^^^^^^
 
-- Go `here <http://bit.do/candimeth>`_. then click the button at the top RHS of the page 
+- Go `here <http://bit.do/candimeth>`_ then click the button at the top RHS of the page 
   - This will import the CandiMeth workflow to your Galaxy account so you can use it
   
 - At the top of the Galaxy homepage, click on the **"workflows"** option
