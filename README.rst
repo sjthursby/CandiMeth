@@ -35,9 +35,6 @@ Cross-comparison to other open-resource data tracks at UCSC facilitates hypothes
 
 CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <http://bit.do/candimeth>`_.
 
-
-Thank you for using CandiMeth!
-
 F. Quick Start Guide
 --------------------
 
@@ -124,9 +121,8 @@ Using CandiMeth
   look at gene body methylation in the genes listed in the Features list (i.e. miR if Supp. Table
   2 was used). If you want to look at promoters choose **“hg19_prom”** instead
 
-- If all goes well, you should see a large green tick in the main (middle) window of Galaxy and **“Successfully invoked workflow           CandiMeth: the results will be sent to a new history, click here to switch to that history now”**
+If all goes well, you should see a large green tick in the main (middle) window of Galaxy and **“Successfully invoked workflow           CandiMeth: the results will be sent to a new history, click here to switch to that history now”**
 
-- New history “Test1” can be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between history’s using the **“Switch to”** function
+New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between histories using the **“Switch to”** function.
 
-
-
+Thank you for using CandiMeth!
