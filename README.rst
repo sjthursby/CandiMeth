@@ -85,11 +85,12 @@ Upload Input Type 1: Differential Methylation Table
    a smaller window
 
 7. Just type or paste in the names of the genes you wish to investigate onto separate lines as in the
-   example below -
+   example below
 
-PICTURE HERE
+.. figure:: https://github.com/sjthursby/CandiMeth/blob/master/images/upload_file_example.png
+   :alt: Upload File Example
 
-8. Give the list a name e.g. “Features”, choose tabular as the Type, and then the relevant human
+8. Give the list a name e.g. **“Features”**, choose tabular as the Type, and then the relevant human
    genome release e.g. Human Feb. 2009 (GRCh37/hg19) as above.
 
 9. Click **“Start”**: the file should upload to Galaxy and appear as a separate dataset on the RHS
@@ -112,20 +113,20 @@ Using CandiMeth
 - Under 1: **R Package Used: (1.1)** enter ‘RnBeads’ or ‘ChAMP’ depending on which was used to
   generate the Differential Methylation Data used as input in Step 3 above
   
-- For 2: **Input Differential Methylation Table (1.2)** choose “DMP set1” or whatever other label
+- For 2: **Input Differential Methylation Table (1.2)** choose **“DMP set1”** or whatever other label
   was used at Step 5 above
   
-- At 3: **Input Gene Features of Interest (1.3)** choose “Features” or whatever label was used at
+- At 3: **Input Gene Features of Interest (1.3)** choose **“Features”** or whatever label was used at
   Step 10 above.
   
 - Finally, for 4: **Input Genome Release Information (1.4)** pick a relevant dataset from the
-  CandiMeth set uploaded into your History at Step 2 above e.g. “hg19_GB” if you want to
+  CandiMeth set uploaded into your History at Step 2 above e.g. **“hg19_GB”** if you want to
   look at gene body methylation in the genes listed in the Features list (i.e. miR if Supp. Table
-  2 was used). If you want to look at promoters choose “hg19_prom” instead
+  2 was used). If you want to look at promoters choose **“hg19_prom”** instead
 
 - If all goes well, you should see a large green tick in the main (middle) window of Galaxy and **“Successfully invoked workflow           CandiMeth: the results will be sent to a new history, click here to switch to that history now”**
 
-- New history “Test1” can be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between history’s using the **“Switch       to”** function
+- New history “Test1” can be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between history’s using the **“Switch to”** function
 
 
 
