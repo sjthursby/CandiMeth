@@ -121,9 +121,9 @@ Using CandiMeth
   look at gene body methylation in the genes listed in the Features list (i.e. miR if Supp. Table
   2 was used). If you want to look at promoters choose **“hg19_prom”** instead
 
-If all goes well, you should see a large green tick in the main (middle) window of Galaxy and **“Successfully invoked workflow           CandiMeth: the results will be sent to a new history, click here to switch to that history now”**
+- If all goes well, you should see a large green tick in the main (middle) window of Galaxy and **“Successfully invoked workflow           CandiMeth: the results will be sent to a new history, click here to switch to that history now”**
 
-New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between histories using the **“Switch to”** function.
+- New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between   histories using the **“Switch to”** function.
 
 Further detail regarding the operation of CandiMeth can be found here (link to do when guide complete).
 
