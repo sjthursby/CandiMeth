@@ -55,7 +55,7 @@ Upload Input Type 1: Differential Methylation Table
 
 1. On the LHS of the Galaxy homepage click on > Get Data > Upload File > Choose Local File and locate your methylation data you wish to upload (e.g. Suppl. Table 1)
 
-2. Set “Type (set all)” to whatever kind of file you are uploading, for example, RnBeads based outputs are usually comma separated variable files (.csv)
+2. Set **“Type (set all)”** to whatever kind of file you are uploading, for example, RnBeads based outputs are usually comma separated variable files (.csv)
    
 :Tip: The default **Auto-detect** setting works well for most file formats.
 
