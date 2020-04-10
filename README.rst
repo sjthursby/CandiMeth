@@ -125,6 +125,7 @@ Using CandiMeth
 
 - New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between   histories using the **“Switch to”** function.
 
-Further detail regarding the operation of CandiMeth can be found here (link to do when guide complete).
+Further detail regarding the operation of CandiMeth can be found `here <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.docx>`_.
+
 
 Thank you for using CandiMeth!
