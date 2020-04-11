@@ -5,16 +5,19 @@
 Using CandiMeth for Feature Methylation Quantification in Galaxy
 ================================================================
 
-A.  `CandiMeth History with Test Data <http://bit.do/candimeth-history>`_
+A. `User Guide: A complete handbook with step-by-step instructions for using CandiMeth <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.docx>`_
+-----------------------------------------------------------------------------------------------------------------------
+
+B.  `CandiMeth History with Test Data <http://bit.do/candimeth-history>`_
 --------------------------------------------------------------------------
 
-B. `CandiMeth Workflow <http://bit.do/candimeth>`_
+C. `CandiMeth Workflow <http://bit.do/candimeth>`_
 ---------------------------------------------------
 
-C. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <http://bit.do/candimeth-download>`_
+D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <http://bit.do/candimeth-download>`_
 --------------------------------------------------------------------------------------------------------------------
 
-D. Prerequisites
+E. Prerequisites
 ----------------
 
 Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_ account with the following datasets that you can upload:
@@ -22,7 +25,7 @@ Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_
 - Analysed methylation array data computed in either RnBeads or ChAMP
 - A list of features for investigation in your methylation array data
 
-E. Summary
+F. Summary
 ----------
 Using existing tools in the Galaxy environment we generated the workflow CandiMeth (CANDIdate feature METHylation). This takes as input a differential methylation table from an R-based package and maps it to a reference genome build. A simple interface then allows the user to query the dataset with inputs as straightforward as lists of gene names, or as detailed as bed files containing specific chromosomal coordinates, for more sophisticated analyses. 
 
@@ -35,7 +38,7 @@ Cross-comparison to other open-resource data tracks at UCSC facilitates hypothes
 
 CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <http://bit.do/candimeth>`_.
 
-F. Quick Start Guide
+G. Quick Start Guide
 --------------------
 
 Click `here <http://bit.do/candimeth-history>`_ and click the + button at the top RHS of the page –
