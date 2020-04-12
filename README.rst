@@ -8,13 +8,13 @@ Using CandiMeth for Feature Methylation Quantification in Galaxy
 A. `User Guide: A complete handbook with step-by-step instructions for using CandiMeth <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.pdf>`_
 -----------------------------------------------------------------------------------------------------------------------
 
-B.  `CandiMeth History with Test Data <https://bit.do/candimeth-history>`_
+B.  `CandiMeth History with Test Data <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_
 --------------------------------------------------------------------------
 
-C. `CandiMeth Workflow <https://bit.do/candimeth>`_
+C. `CandiMeth Workflow <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_
 ---------------------------------------------------
 
-D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <https://bit.do/candimeth-download>`_
+D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8/json>`_
 --------------------------------------------------------------------------------------------------------------------
 
 E. Prerequisites
@@ -36,12 +36,12 @@ The major outputs are:
 
 Cross-comparison to other open-resource data tracks at UCSC facilitates hypothesis formulation which can then be directly tested using the query function. 
 
-CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://bit.do/candimeth>`_.
+CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_.
 
 G. Quick Start Guide
 --------------------
 
-Click `here <https://bit.do/candimeth-history>`_ and click the + button at the top RHS of the page –
+Click `here <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_ and click the + button at the top RHS of the page –
 this will create a History containing the reference genome information to be used in the CandiMeth workflow in your own Galaxy account.
 
 Uploading your data to Galaxy
@@ -100,7 +100,7 @@ Upload Input Type 1: Differential Methylation Table
 Using CandiMeth
 ^^^^^^^^^^^^^^^
 
-- Go `here <https://bit.do/candimeth>`_ then click the + button at the top RHS of the page 
+- Go `here <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_ then click the + button at the top RHS of the page 
   - This will import the CandiMeth workflow to your Galaxy account so you can use it
   
 - At the top of the Galaxy homepage, click on the **"workflows"** option
@@ -128,7 +128,7 @@ Using CandiMeth
 
 - New history “Test1” can then be found by clicking the history button (looks like a book) at the top RHS of the page, navigate between   histories using the **“Switch to”** function.
 
-Further detail regarding the operation of CandiMeth can be found `here <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.docx>`_.
+Further detail regarding the operation of CandiMeth can be found `here <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.pdf>`_.
 
 
 Thank you for using CandiMeth!
