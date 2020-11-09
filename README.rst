@@ -17,7 +17,7 @@ C. `CandiMeth Workflow <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>
 D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8/json>`_
 --------------------------------------------------------------------------------------------------------------------
 
-E. `CandiMeth Publication <https://academic.oup.com/gigascience/article/9/6/giaa066/5860739>`
+E. `CandiMeth Publication <https://academic.oup.com/gigascience/article/9/6/giaa066/5860739>`_
 --------------------------------------------------------------------------------------------------------------------
 
 F. Prerequisites
