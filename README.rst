@@ -17,7 +17,10 @@ C. `CandiMeth Workflow <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>
 D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8/json>`_
 --------------------------------------------------------------------------------------------------------------------
 
-E. Prerequisites
+E. `CandiMeth Publication <https://academic.oup.com/gigascience/article/9/6/giaa066/5860739>`
+--------------------------------------------------------------------------------------------------------------------
+
+F. Prerequisites
 ----------------
 
 Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_ account with the following datasets that you can upload:
@@ -25,7 +28,7 @@ Before starting you should have a working `Galaxy <https://www.usegalaxy.org/>`_
 - Analysed methylation array data computed in either RnBeads or ChAMP
 - A list of features for investigation in your methylation array data
 
-F. Summary
+G. Summary
 ----------
 Using existing tools in the Galaxy environment we generated the workflow CandiMeth (CANDIdate feature METHylation). This takes as input a differential methylation table from an R-based package and maps it to a reference genome build. A simple interface then allows the user to query the dataset with inputs as straightforward as lists of gene names, or as detailed as bed files containing specific chromosomal coordinates, for more sophisticated analyses. 
 
@@ -38,7 +41,7 @@ Cross-comparison to other open-resource data tracks at UCSC facilitates hypothes
 
 CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_.
 
-G. Quick Start Guide
+H. Quick Start Guide
 --------------------
 
 Click `here <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_ and click the + button at the top RHS of the page –
