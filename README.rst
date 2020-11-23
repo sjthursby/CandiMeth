@@ -53,7 +53,7 @@ Uploading your data to Galaxy
 For this you need:
 
 - At least one file containing information on methylation differences between two
-  samples produced from either RnBeads or ChAMP (for Input Type 1 below) 
+  samples produced from either RnBeads (e.g. diffMethTable_sites_cmp1.csv) or ChAMP (for Input Type 1 below) 
 - A list of candidate features which you want to look at (Input Type 2 below)1. Example names for these files are given below, but         the actual files and names will be decided by the user each time
 
 Upload Input Type 1: Differential Methylation Table
