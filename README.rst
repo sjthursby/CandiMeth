@@ -11,10 +11,10 @@ A. `User Guide: A complete handbook with step-by-step instructions for using Can
 B.  `CandiMeth History with Test Data <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_
 --------------------------------------------------------------------------
 
-C. `CandiMeth Workflow <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_
+C. `CandiMeth Workflow <https://usegalaxy.org/workflow/imp?id=90f38498d9ded232>`_
 ---------------------------------------------------
 
-D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8/json>`_
+D. `CandiMeth Workflow Download (for personal or alternative Galaxy instances) <hhttps://usegalaxy.org/api/workflows/90f38498d9ded232/download?format=json-download>`_
 --------------------------------------------------------------------------------------------------------------------
 
 E. `CandiMeth Publication <https://academic.oup.com/gigascience/article/9/6/giaa066/5860739>`_
@@ -39,7 +39,7 @@ The major outputs are:
 
 Cross-comparison to other open-resource data tracks at UCSC facilitates hypothesis formulation which can then be directly tested using the query function. 
 
-CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_.
+CandiMeth allows rapid, quantitative analysis of methylation at user-specified features without the need for coding and is freely available `here <https://usegalaxy.org/workflow/imp?id=90f38498d9ded232>`_.
 
 H. Quick Start Guide
 --------------------
@@ -103,7 +103,7 @@ Upload Input Type 1: Differential Methylation Table
 Using CandiMeth
 ^^^^^^^^^^^^^^^
 
-- Go `here <https://usegalaxy.org/u/sarajayne-thursby/w/candimeth-8>`_ then click the + button at the top RHS of the page 
+- Go `here <https://usegalaxy.org/workflow/imp?id=90f38498d9ded232>`_ then click the + button at the top RHS of the page 
   - This will import the CandiMeth workflow to your Galaxy account so you can use it
   
 - At the top of the Galaxy homepage, click on the **"workflows"** option
