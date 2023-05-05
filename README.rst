@@ -8,7 +8,7 @@ Using CandiMeth for Feature Methylation Quantification in Galaxy
 A. `User Guide: A complete handbook with step-by-step instructions for using CandiMeth <https://github.com/sjthursby/CandiMeth/raw/master/supplementary%20data/CandiMeth%20User%20Guide%20for%20GitHub.pdf>`_
 -----------------------------------------------------------------------------------------------------------------------
 
-B.  `CandiMeth History with Test Data <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_
+B.  `CandiMeth History with Test Data <https://usegalaxy.org/u/laurafreeman/h/candimeth-history>`_
 --------------------------------------------------------------------------
 
 C. `CandiMeth Workflow <https://usegalaxy.org/workflow/imp?id=90f38498d9ded232>`_
@@ -44,7 +44,7 @@ CandiMeth allows rapid, quantitative analysis of methylation at user-specified f
 H. Quick Start Guide
 --------------------
 
-Click `here <https://usegalaxy.org/u/sarajayne-thursby/h/candimeth-history>`_ and click the + button at the top RHS of the page –
+Click `here <https://usegalaxy.org/u/laurafreeman/h/candimeth-history>`_ and click the + button at the top RHS of the page –
 this will create a History containing the reference genome information to be used in the CandiMeth workflow in your own Galaxy account.
 
 Uploading your data to Galaxy
